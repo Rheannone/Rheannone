@@ -17,7 +17,7 @@ To me, the word 'muckraker' is a compliment.
 
 - Some things I'm working on: 
   * 📝 [Whatevernote](https://whatevernote-app.herokuapp.com/) : Python/React Evernote clone using React Quill Editor including custom undo and **autosave** functions. 
-  * 📚 [My Groovy Library](https://my-public-library.herokuapp.com/) to explore the Google API & **OAuth2**
+  * 📚 [My Groovy Library](https://my-public-library.herokuapp.com/) to explore the Webcam & **OAuth2**
 - 🐍  I’m currently learning Python 
 - 👯 I’m looking to collaborate on any projects involving a camera or DeFi
 - 💬 Ask me about NYC history if you have time
