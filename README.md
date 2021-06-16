@@ -12,7 +12,8 @@
 ![Docker](	https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I'm a full-stack software engineer and avid challenge-chaser with a love for history. I recently completed a 6 month full stack software engineering bootcamp at App Academy, formalizing my **NYC freelancing** experience with over **2000 hours of grinding Javascript, Python**, et al. 
+I build gorgeous, highly-functional digital experiences with data-driven designs.
+To me, the word 'muckraker' is a compliment. 
 
 - Some things I'm working on: 
   * 📝 [Whatevernote](https://whatevernote-app.herokuapp.com/) : Python/React Evernote clone using React Quill Editor including custom undo and **autosave** functions. 
